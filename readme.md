@@ -77,11 +77,6 @@ chmod +x setup_kitty_ohmybash.sh
   This project is licensed under the <a href="LICENSE">MIT License</a> – see the <a href="LICENSE">LICENSE</a> file for more details.
 </p>
 
-<!-- Footer section -->
-<hr>
-<p align="center">
-  <img src="https://your-image-url-here.com/footer-image.png" alt="Footer Image">
-</p>
 
 <p align="center">
   Made with ❤️ by <a href="https://github.com/your-username">Vaibhav Tiwari</a>
