@@ -52,13 +52,13 @@ if [[ "$PKG_MANAGER" == "dnf" ]]; then
   sudo dnf install figlet lolcat -y
 elif [[ "$PKG_MANAGER" == "apt" ]]; then
   sudo apt update && sudo apt install figlet lolcat -y
-elif [[ "$PKG_MANAGER" == "pacman" ]]; then
+elif [[ "$PKG_MANAGER" == "pacman -S" ]]; then
   sudo pacman -S figlet lolcat --noconfirm
 fi
 
 # Modifying the  .bashrc
 echo_color "Adding a custom banner to .bashrc..."
-if ! grep -q "figlet \"Welcome to Kitty\"" ~/.bashrc; then
+if ! grep -q "figlet \" Welcome to Kitty\"" ~/.bashrc; then
   cat <<'EOF' >>~/.bashrc
 
 # Display custom banner using figlet and lolcat
