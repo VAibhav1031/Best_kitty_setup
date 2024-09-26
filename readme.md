@@ -1,6 +1,6 @@
 <!-- Banner image or logo -->
 <p align="center">
-  <img src="https://your-image-url-here.com/banner.png" width="800" height="400" alt="Project Banner">
+  <img src="https://Images/Banner.png" width="800" height="400" alt="Project Banner">
 </p>
 
 <h1 align="center">🐱‍👤 Kitty Terminal + Oh My Bash Installer</h1>
