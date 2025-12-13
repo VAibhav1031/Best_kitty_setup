@@ -3,14 +3,14 @@
   <img src="Images/Banner.jpg" width="800" height="400" alt="Project Banner">
 </p>
 
-<h1 align="center">🐱‍👤 Kitty Terminal + Oh My Bash Installer</h1>
+<h1 align="center">Kitty Terminal + Oh My Bash Installer</h1>
 
 <p align="center">
   <strong>Install Kitty terminal, configure it with Oh My Bash, and customize your Bash experience with a beautiful banner! 🎉</strong>
 </p>
 
 <!-- Table of Contents -->
-<h2>📑 Table of Contents</h2>
+<h2>Table of Contents</h2>
 <ul>
   <li><a href="#about">About</a></li>
   <li><a href="#installation">Installation</a></li>
@@ -21,7 +21,7 @@
   <li><a href="#license">License</a></li>
 </ul>
 
-<h2 id="about">📜 About</h2>
+<h2 id="about"> About</h2>
 <p>
   This project provides an easy-to-use installation script to configure the <strong>Kitty terminal</strong> with <strong>Oh My Bash</strong>. 
   It automatically applies the <em>Kitsune theme</em> and customizes your terminal with a banner using <code>figlet</code> and <code>lolcat</code>.
@@ -52,12 +52,12 @@ chmod +x setup_kitty_ohmybash.sh
   <li>Available package managers: <code>dnf</code>, <code>apt</code>, or <code>pacman</code></li>
 </ul>
 
-<h2 id="features">✨ Features</h2>
+<h2 id="features"> Features</h2>
 <ul>
-  <li>📦 Installs Kitty terminal automatically</li>
-  <li>🎨 Configures Oh My Bash with the beautiful Kitsune theme</li>
-  <li>💻 Displays a custom banner using <code>figlet</code> and <code>lolcat</code></li>
-  <li>🔍 Supports multiple Linux package managers (<code>dnf</code>, <code>apt</code>, <code>pacman</code>)</li>
+  <li>Installs Kitty terminal automatically</li>
+  <li>Configures Oh My Bash with the beautiful Kitsune theme</li>
+  <li>Displays a custom banner using <code>figlet</code> and <code>lolcat</code></li>
+  <li>Supports multiple Linux package managers (<code>dnf</code>, <code>apt</code>, <code>pacman</code>)</li>
 </ul>
 
 <h2 id="how-to-use">🛠️ How to Use</h2>
@@ -67,7 +67,7 @@ chmod +x setup_kitty_ohmybash.sh
   <li>Restart Kitty to see your custom terminal environment</li>
 </ol>
 
-<h2 id="contributing">🤝 Contributing</h2>
+<h2 id="contributing">Contributing</h2>
 <p>
   Contributions are welcome! Feel free to submit a pull request, open an issue, or suggest new features!
 </p>
@@ -78,7 +78,4 @@ chmod +x setup_kitty_ohmybash.sh
 </p>
 
 
-<p align="center">
-  Made with ❤️ by <a href="https://github.com/your-username">Vaibhav Tiwari</a>
-</p>
 
